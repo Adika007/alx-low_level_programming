@@ -3,3 +3,4 @@ print alphabet
 10 x alphabet
 int _islower(int c);
 int _isalpha(int c);
+int print_sign(int n);
